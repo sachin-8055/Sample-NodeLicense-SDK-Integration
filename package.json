@@ -1,0 +1,16 @@
+{
+  "name": "sample-nodelicense-sdk-integration",
+  "version": "1.0.0",
+  "description": "https://www.npmjs.com/package/license-bb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "license-bb": "^1.4.12"
+  }
+}
